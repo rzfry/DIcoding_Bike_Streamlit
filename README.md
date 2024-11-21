@@ -1,10 +1,29 @@
-📊 Aplikasi Streamlit Anda
-Aplikasi ini adalah aplikasi berbasis Streamlit yang dirancang untuk [deskripsikan tujuan aplikasi Anda, misalnya: "membantu memilah sampah berdasarkan kategorinya."]. Dengan aplikasi ini, Anda dapat [sebutkan manfaatnya, misalnya: "mengunggah gambar sampah dan mendapatkan hasil klasifikasinya."].
+📊 Aplikasi Streamlit Bike Rental Dicoding
+Course : Belajar Analisis Data dengan Python
+
 
 🎯 Fitur Utama
-[Fitur 1]: Deskripsikan fitur utama aplikasi.
-[Fitur 2]: Deskripsikan fitur tambahan yang berguna.
-[Fitur lainnya]: Tambahkan fitur lain sesuai aplikasi Anda.
+Fitur #1
+![image](https://github.com/user-attachments/assets/e4514d5f-40b3-469b-88f4-22a4ab4c6f6f)
+
+Menampilkan Jumlah sepeda yang disewakan, berapa pembeli yang sudah terdaftar , dan total keseluruhan pembeli
+
+Fitur #2
+![image](https://github.com/user-attachments/assets/77266504-194c-4ae7-a9be-88740031f6da)
+Menampilkan jumlah pengguna dalam tiap musim
+
+Fitur #3
+![image](https://github.com/user-attachments/assets/40bbaccd-482b-4a51-9af4-f5f75b6b854e)
+Menampilkan berapa rata-rata jam penyewaan sepeda dalam satu hari
+
+Fitur #4
+![image](https://github.com/user-attachments/assets/d149b30d-8033-4d37-9e89-4c31f05fe1ac)
+Menampilkan klasterisasi pengguna dengan gabungan hari dan jam yang paling ramai
+
+Fitur #5
+![image](https://github.com/user-attachments/assets/d5cbecc9-fa7f-40ad-8e89-ea2eca600ba2)
+Menampilkan presentase pengguna yang sudah terdaftar dan belum terdaftar
+
 🛠️ Cara Install dan Menjalankan
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di mesin lokal Anda.
 
@@ -37,20 +56,6 @@ Setelah dijalankan, buka browser Anda dan akses aplikasi di:
 
 arduino
 Salin kode
-http://localhost:8501
-📦 Struktur Proyek
-Struktur direktori proyek Anda adalah sebagai berikut:
-
-bash
-Salin kode
-repo-name/
-│
-├── app.py                 # File utama Streamlit
-├── requirements.txt       # File dependensi Python
-├── README.md              # Dokumentasi
-├── data/                  # Folder untuk data pendukung (opsional)
-└── assets/                # Folder untuk gambar/icon (opsional)
-🖼️ Contoh Hasil
-Tambahkan tangkapan layar atau video pendek penggunaan aplikasi Anda di sini.
+``http://localhost:8501``
 
 Semoga template ini membantu Anda! 🚀 Apakah ada tambahan khusus yang ingin Anda masukkan?
