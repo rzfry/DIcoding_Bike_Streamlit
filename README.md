@@ -1,8 +1,8 @@
-📊 Aplikasi Streamlit Bike Rental Dicoding
+Aplikasi Streamlit Bike Rental Dicoding
 Course : Belajar Analisis Data dengan Python
 
 
-🎯 Fitur Utama
+Fitur Utama
 Fitur #1
 ![image](https://github.com/user-attachments/assets/e4514d5f-40b3-469b-88f4-22a4ab4c6f6f)
 
@@ -41,7 +41,9 @@ cd repo-name
 
 bash
 Salin kode
+```
 pip install -r requirements.txt
+```
 
 3. Jalankan Aplikasi
 Gunakan perintah berikut untuk menjalankan aplikasi:
