@@ -51,7 +51,7 @@ Gunakan perintah berikut untuk menjalankan aplikasi:
 bash
 Salin kode
 ```
-streamlit run app.py
+streamlit run dashboard.py
 ```
 4. Akses di Browser
 Setelah dijalankan, buka browser Anda dan akses aplikasi di:
