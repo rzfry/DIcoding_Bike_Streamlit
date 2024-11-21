@@ -33,8 +33,8 @@ Clone repositori ini ke komputer Anda menggunakan git:
 bash
 Salin kode
 ```
-git clone https://github.com/username/repo-name.git
-cd repo-name
+[git clone https://github.com/username/repo-name.git](https://github.com/rzfry/[DIcoding_Bike_Streamlit](https://github.com/rzfry/DIcoding_Bike_Streamlit.git).git)
+cd DIcoding_Bike_Streamlit
 ```
 
 2. Instal semua dependensi yang diperlukan:
